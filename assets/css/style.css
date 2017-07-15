@@ -251,7 +251,7 @@ section .subtitle-half h5 {
     font-size: 17px;
 }
 section:nth-of-type(odd) {
-    background-color: #F9F9F9;
+    background-color: #ffffff;/*#F9F9F9;*/
 }
 .fw-special-title-half {
     font-size: 2rem;
@@ -277,7 +277,7 @@ section:nth-of-type(odd) {
     margin: auto;
 }
 .overlay-img {
-    background: #ffffff; /*rgba(194, 201, 204, 0.3);*/
+    background: #F9F9F9; /*rgba(194, 201, 204, 0.3);*/
     width: 100%;
     padding-top: 80px;
     padding-bottom: 20px;
